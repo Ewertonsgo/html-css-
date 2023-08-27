@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade Softex</title>
+   <body>
+    <h1 style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">O que fazer na capital cultural do Nordeste?</h1>
+
+    <p style="color: rgb(176, 26, 26);">Em Pernambuco, você acorda junto com o sol fervilhante.</p>
+    <div class="imagens">
+<img src="imagens/marco zero.webp" alt="Marco Zero">
+<img src="imagens/recife antigo.webp" alt="Recife Antigo">
+    </div>
+    <div class="Abas">
+        <form>
+            <fieldset>
+                <label for="text">Seu nome</label>
+                <input type="text" id="text">
+                <label for="text">cidade</label>
+                <input type="text" id="text">
+                <input type="date" name="Calendario" id="Dia da viagem">
+                <input type="button" value="Compra sua passagem" style="color: blue;">
+            </fieldset>
+        </form>
+        <footer>
+            <h3>Softex</h3>
+        </footer>
+
+</body>
+</html>
